@@ -1,0 +1,3 @@
+barrel barricade barril box box@objetos
+lamp lateral paras sostenes cable plantas poste soporte vereda alero luz- pared- perciana ropa techo techito vent puertas pulpo rio generador frente andamio antena calle conector ducto escalera escape deco_a deco_ca deco_e deco_g deco_h deco_l deco_n deco_pe deco_plan deco_po deco_t deco_v@building_mundo2
+edifio@fondo
